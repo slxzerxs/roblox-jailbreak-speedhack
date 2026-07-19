@@ -7,3 +7,6 @@ Uses Heartbeat for smooth force application.
 For educational purposes only. Use at your own risk.
 
 ```
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/roblox-jailbreak-speedhack/refs/heads/main/roblox-jailbreak-speedhack.lua"))()
+```
