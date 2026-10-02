@@ -1,8 +1,8 @@
+-- v1.1.1
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 
--- Constants
 local FORCE_MULTIPLIER = 300000
 local BIKE_FORCE_MULTIPLIER = 0.3
 local BUGGY_FORCE_MULTIPLIER = 0.5
