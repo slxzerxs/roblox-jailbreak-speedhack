@@ -1,7 +1,7 @@
 # Roblox Jailbreak Vehicle Speedhack Script
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/roblox-jailbreak-speedhack/refs/heads/main/roblox-jailbreak-speedhack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slxzerxs/roblox-jailbreak-speedhack/refs/heads/main/roblox-jailbreak-speedhack.lua"))()
 ```
 
 Vehicle speed modification script for Roblox Jailbreak.
